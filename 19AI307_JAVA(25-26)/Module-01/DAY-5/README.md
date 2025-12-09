@@ -24,8 +24,8 @@ To write a Java program that accepts two strings as input and compares them usin
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Adhithya Ram D
-RegisterNumber: 212222230008
+Developed by: Balamurugan B
+RegisterNumber: 212222230016
 */
 ```
 
@@ -54,6 +54,7 @@ public class Main{
 ## RESULT:
 
 Thus the program that reads two strings and compares them is executed successfully.
+
 
 
 
